@@ -1,0 +1,24 @@
+# RPG Maker MV - arquivos de save/teste
+save/
+*.rmmzsave
+*.rpgsave
+
+# Logs e cache do NW.js (engine usada pelo RPG Maker MV)
+*.log
+nwjs*/
+
+# Builds e deploys (se vocês gerarem builds pra Windows/Mac/etc)
+/deployment/
+/www-deploy/
+
+# Backups automáticos que o editor cria
+*_bak/
+backup/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configurações de IDE, se usarem VSCode pra editar plugins JS
+.vscode/
